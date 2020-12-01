@@ -25,13 +25,6 @@
 
 **Thoughts:** I managed to get the video to appear right away this time by taking it out of the section tags. I'm not sure why it happened but it seemed to do the trick.
 
-**Link to work:** ### Day 2: Monday November 30 2020
-##### 
-
-**Today's Progress**: Created features section and used Bootstrip grid for responsive layout.
-
-**Thoughts:** I had also intended to create the third section today but I hit a brick wall trying to embed a Youtube video. Also not really sure how to use Github!
-
 **Link to work:** Product Landing Page https://codepen.io/jonnyhoudini/pen/mdrdBQa?editors=1100
 
 
