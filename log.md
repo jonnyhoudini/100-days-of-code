@@ -27,4 +27,12 @@
 
 **Link to work:** Product Landing Page https://codepen.io/jonnyhoudini/pen/mdrdBQa?editors=1100
 
+### Day 4: Wednesday December 2 2020
+##### 
+
+**Today's Progress**: I completed the Tindog project on Angela Yu's web development course and learned more about media queries.
+
+**Thoughts:** I definitely learn more by doing and I need to be careful when following video courses and tutorials that I take breaks regularly to actually try out the code myself instead of just passively consuming the course.
+
+
 
