@@ -34,5 +34,10 @@
 
 **Thoughts:** I definitely learn more by doing and I need to be careful when following video courses and tutorials that I take breaks regularly to actually try out the code myself instead of just passively consuming the course.
 
+### Day 5: Thursday December 3 2020
+##### 
 
+**Today's Progress**: I learned about refactoring code and combining CSS selectors.
+
+**Thoughts:** I wasn't really focusing and tried to watch TV at the same time as coding. Not very productive.
 
