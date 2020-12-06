@@ -41,3 +41,10 @@
 
 **Thoughts:** I wasn't really focusing and tried to watch TV at the same time as coding. Not very productive.
 
+### Day 6 and 7: Saturday & Sunday December 6 2020
+##### 
+
+**Today's Progress**: I finished the Tindog project on Udemy course, tidied up the CSS a bit and watched the videos about typography, colour theory and UI and UX.
+
+**Thoughts:** I'm not really sure if I've grasped the difference between user interface and user experience but I find the whole design side really interesting. My focus has been hit hard over the weekend. I missed Friday (allowed one night off in 14 days) then hardly did anything on Saturday night because I was sitting on the couch with the TV on. Tomorrow I will start my next FCC project - documentation page.
+
