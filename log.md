@@ -48,3 +48,11 @@
 
 **Thoughts:** I'm not really sure if I've grasped the difference between user interface and user experience but I find the whole design side really interesting. My focus has been hit hard over the weekend. I missed Friday (allowed one night off in 14 days) then hardly did anything on Saturday night because I was sitting on the couch with the TV on. Tomorrow I will start my next FCC project - documentation page.
 
+### Day 8: Monday December 7 2020
+##### 
+
+**Today's Progress**: I started and finished the FCC documentation project today. It only took a couple of hours to meet all 16 tests and I'm quite pleased with how it looks. When I was looking for advice on creating a sidebar I found the code I needed on W3Schools - at first I felt guilty about copying it but I made sure I understood the purpose of every attribute, deleted the bits I didn't need and changed the colours etc.
+
+**Thoughts:** I was really pleased that I managed to finish the documentation project so quickly and I even started wireframing the design of my portfolio page on Canva. 
+**Link to work:** HTML Documentation https://codepen.io/jonnyhoudini/full/abmZJeq
+
